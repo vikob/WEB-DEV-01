@@ -1,0 +1,57 @@
+h1 {
+  font-family: Helvetica Neue;
+}
+
+h2 {
+  font-family: Helvetica Neue;
+}
+
+header {
+  display: block;
+}
+
+nav {
+  background-color: black;
+  height: 30px;
+  text-align: center;
+}
+
+nav ul {
+  font-family: Helvetica Neue;
+  font-weight: bold;
+  color: white;
+}
+
+nav ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  padding: 3px 15px 15px 7px;
+  color: white;
+  text-align: center;
+}
+
+body {
+  font-family: Helvetica Neue
+}
+
+.features {
+  font-weight: bold;
+  color: grey;
+  font-size: 150%;
+}
+
+.attention {
+  color: red;
+  font-weight: 900;
+}
+
+.players {
+  font-weight: bold;
+  color: grey
+}
+
